@@ -40,8 +40,10 @@ The goal is to analyze and simulate the progression of the COVID-19 epidemic usi
 ##  Author
 
 **Ilias Bitinis**  
-M.Sc. student in Biostatistics & Health Data Science, Medical University of NKUA, Athens Greece
-B.Sc.  in Mathematics, University of Patras, Patras Greece
+M.Sc. student in Biostatistics & Health Data Science, Medical University of NKUA, Athens Greece||
+
+B.Sc.  in Mathematics, University of Patras, Patras Greece||
+
 [LinkedIn Profile](https://www.linkedin.com/in/ilias-bitinis-77b158260)
 
 ---
